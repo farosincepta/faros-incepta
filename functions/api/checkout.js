@@ -2,7 +2,9 @@
 // Builds a Stripe Checkout Session from the cart. Prices come from clips.json, never from the browser.
 import { json, loadClips } from "./_lib.js";
 
-const MAX_CART = 20;
+const MAX_CART = 5;
+// Tier pricing: an order is exactly 1, 3 or 5 clips (total in cents). Keep in step with public/index.html
+const TIERS = { 1: 150, 3: 420, 5: 650 };
 
 export async function onRequestPost(context) {
   const { request, env } = context;
@@ -15,6 +17,9 @@ export async function onRequestPost(context) {
   const ids = [...new Set(Array.isArray(body.ids) ? body.ids : [])].slice(0, MAX_CART);
   const chosen = ids.map((id) => byId.get(id)).filter(Boolean);
   if (!chosen.length) return json({ error: "Your cart is empty." }, 400);
+  const total = TIERS[chosen.length];
+  if (!total) return json({ error: "Orders are 1, 3 or 5 clips. Please adjust your cart." }, 400);
+  const each = total / chosen.length; // 150, 140 or 130 cents
 
   const origin = new URL(request.url).origin;
   const p = new URLSearchParams();
@@ -26,7 +31,7 @@ export async function onRequestPost(context) {
   chosen.forEach((c, i) => {
     p.set(`line_items[${i}][quantity]`, "1");
     p.set(`line_items[${i}][price_data][currency]`, "usd");
-    p.set(`line_items[${i}][price_data][unit_amount]`, String(c.price_cents || 100));
+    p.set(`line_items[${i}][price_data][unit_amount]`, String(each));
     p.set(`line_items[${i}][price_data][product_data][name]`, `${c.id} · ${c.title}`);
   });
   // Optional: let Stripe Tax calculate sales tax (set STRIPE_TAX=on after enabling Stripe Tax).
