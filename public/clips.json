@@ -8,5 +8,1205 @@
   "secs": 5,
   "text": "Hey everyone, welcome back to the channel. Let's get into it.",
   "file": "FI-0001.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-01",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Butler announces your popularity",
+  "voice": "Dry British butler",
+  "secs": 5,
+  "text": "Your phone is ringing. It has apparently decided you are popular.",
+  "file": "RING-2026-11-11-01.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-02",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Your fan club is calling",
+  "voice": "Overexcited game-show host",
+  "secs": 6,
+  "text": "Attention, superstar! Your fan club is calling. Membership: one.",
+  "file": "RING-2026-11-11-02.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-03",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Tiny pocket concert",
+  "voice": "Playful upbeat announcer",
+  "secs": 5,
+  "text": "Incoming call! Your pocket is hosting a tiny concert.",
+  "file": "RING-2026-11-11-03.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-04",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Call from your future self",
+  "voice": "Mysterious sci-fi narrator",
+  "secs": 5,
+  "text": "Ring ring! This is your future self. Pick up; we need to talk.",
+  "file": "RING-2026-11-11-04.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-05",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Someone wants a favor",
+  "voice": "World-weary detective voice",
+  "secs": 4,
+  "text": "Someone wants you. Probably for a favor.",
+  "file": "RING-2026-11-11-05.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-06",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Panicked number alert",
+  "voice": "Comically panicked news anchor",
+  "secs": 3,
+  "text": "Emergency! Someone has discovered your phone number!",
+  "file": "RING-2026-11-11-06.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-07",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "The sacred rectangle",
+  "voice": "Grand fantasy wizard",
+  "secs": 5,
+  "text": "Behold! The sacred rectangle demands your attention!",
+  "file": "RING-2026-11-11-07.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-08",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Your celebrity era continues",
+  "voice": "Smooth documentary narrator",
+  "secs": 5,
+  "text": "Your phone rings again. Your celebrity era continues.",
+  "file": "RING-2026-11-11-08.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-09",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "I can hear you ignoring me",
+  "voice": "Impatient cartoon neighbor",
+  "secs": 6,
+  "text": "Hello? Hello? I can hear you ignoring me.",
+  "file": "RING-2026-11-11-09.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-10",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "The universe (or your aunt) calls",
+  "voice": "Dreamy cosmic narrator",
+  "secs": 5,
+  "text": "The universe is calling. It sounds suspiciously like your aunt.",
+  "file": "RING-2026-11-11-10.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-11",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Mission from planet Earth",
+  "voice": "Retro spaceship computer",
+  "secs": 5,
+  "text": "Incoming call from planet Earth. Do you accept the mission?",
+  "file": "RING-2026-11-11-11.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-12",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "The tiny people request an audience",
+  "voice": "Whimsical fairy-tale storyteller",
+  "secs": 5,
+  "text": "The tiny people inside your phone request an audience.",
+  "file": "RING-2026-11-11-12.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-13",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Fame is exhausting, darling",
+  "voice": "Dramatic diva voice",
+  "secs": 5,
+  "text": "Ring ring, darling. Fame is exhausting, isn’t it?",
+  "file": "RING-2026-11-11-13.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-14",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Town crier: a call!",
+  "voice": "Medieval town crier",
+  "secs": 5,
+  "text": "A call! A call! Release the royal answering thumb!",
+  "file": "RING-2026-11-11-14.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-15",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Try looking surprised",
+  "voice": "Snarky best friend",
+  "secs": 3,
+  "text": "Your phone is ringing. Try looking surprised.",
+  "file": "RING-2026-11-11-15.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-16",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "It is not a pizza",
+  "voice": "Cheerful cartoon robot",
+  "secs": 5,
+  "text": "Somebody called. We checked. It is not a pizza.",
+  "file": "RING-2026-11-11-16.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-17",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Your phone works weekends",
+  "voice": "Tired office worker",
+  "secs": 5,
+  "text": "This is your phone speaking. I work weekends, apparently.",
+  "file": "RING-2026-11-11-17.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-18",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Cue the dramatic music",
+  "voice": "Epic movie-trailer voice",
+  "secs": 4,
+  "text": "The call has arrived. Cue the dramatic music!",
+  "file": "RING-2026-11-11-18.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-19",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "The noisy thing again",
+  "voice": "Friendly energetic kid-like cartoon voice",
+  "secs": 3,
+  "text": "Hey! Your phone is doing that noisy thing again!",
+  "file": "RING-2026-11-11-19.mp3"
+ },
+ {
+  "id": "RING-2026-11-11-20",
+  "cat": "ringtones",
+  "lang": "en",
+  "title": "Until morale improves",
+  "voice": "Mock-serious military commander",
+  "secs": 3,
+  "text": "The ringing will continue until morale improves.",
+  "file": "RING-2026-11-11-20.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-01",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Hello, boss",
+  "voice": "Cheerful assistant voice",
+  "secs": 3,
+  "text": "Hello, boss! You have a text message.",
+  "file": "TXAL-2026-11-11-01.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-02",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Psst, a tiny letter",
+  "voice": "Conspiratorial whisper",
+  "secs": 3,
+  "text": "Psst! A tiny letter just landed.",
+  "file": "TXAL-2026-11-11-02.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-03",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Mystery not included",
+  "voice": "Deadpan robot",
+  "secs": 4,
+  "text": "Message delivered. Mystery not included.",
+  "file": "TXAL-2026-11-11-03.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-04",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Someone typed at you",
+  "voice": "Bubbly cartoon narrator",
+  "secs": 3,
+  "text": "Ding! Someone typed at you.",
+  "file": "TXAL-2026-11-11-04.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-05",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Breaking pocket news",
+  "voice": "Urgent newsroom anchor",
+  "secs": 2,
+  "text": "Your pocket has breaking news.",
+  "file": "TXAL-2026-11-11-05.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-06",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Pretend to be busy",
+  "voice": "Sarcastic friend",
+  "secs": 3,
+  "text": "Text alert! Pretend to be busy.",
+  "file": "TXAL-2026-11-11-06.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-07",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Words from another human",
+  "voice": "Curious alien voice",
+  "secs": 3,
+  "text": "Incoming words from another human.",
+  "file": "TXAL-2026-11-11-07.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-08",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Your phone has gossip",
+  "voice": "Mischievous whisper",
+  "secs": 2,
+  "text": "Your phone has gossip.",
+  "file": "TXAL-2026-11-11-08.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-09",
+  "cat": "texts",
+  "lang": "en",
+  "title": "A message, your majesty",
+  "voice": "Polite royal butler",
+  "secs": 2,
+  "text": "A message awaits, your majesty.",
+  "file": "TXAL-2026-11-11-09.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-10",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Important, or a meme?",
+  "voice": "Dry comic narrator",
+  "secs": 4,
+  "text": "New text. Could be important. Could be a meme.",
+  "file": "TXAL-2026-11-11-10.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-11",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Someone pressed send",
+  "voice": "Cool computer voice",
+  "secs": 2,
+  "text": "Someone has pressed send.",
+  "file": "TXAL-2026-11-11-11.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-12",
+  "cat": "texts",
+  "lang": "en",
+  "title": "The plot thickens",
+  "voice": "Mystery detective",
+  "secs": 3,
+  "text": "Ping! The plot thickens.",
+  "file": "TXAL-2026-11-11-12.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-13",
+  "cat": "texts",
+  "lang": "en",
+  "title": "You have been texted",
+  "voice": "Cartoon town crier",
+  "secs": 3,
+  "text": "Attention! You have been texted.",
+  "file": "TXAL-2026-11-11-13.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-14",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Your inbox just blinked",
+  "voice": "Gentle fairy voice",
+  "secs": 2,
+  "text": "Your inbox just blinked.",
+  "file": "TXAL-2026-11-11-14.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-15",
+  "cat": "texts",
+  "lang": "en",
+  "title": "New message, no pressure",
+  "voice": "Friendly anxious voice",
+  "secs": 3,
+  "text": "New message! No pressure.",
+  "file": "TXAL-2026-11-11-15.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-16",
+  "cat": "texts",
+  "lang": "en",
+  "title": "A wild text appears",
+  "voice": "Excited arcade-game announcer",
+  "secs": 2,
+  "text": "A wild text has appeared!",
+  "file": "TXAL-2026-11-11-16.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-17",
+  "cat": "texts",
+  "lang": "en",
+  "title": "The message goblin",
+  "voice": "Tiny raspy fantasy creature",
+  "secs": 2,
+  "text": "The message goblin has arrived.",
+  "file": "TXAL-2026-11-11-17.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-18",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Your screen wants attention",
+  "voice": "Cheery upbeat neighbor",
+  "secs": 3,
+  "text": "Hey! Your screen wants attention.",
+  "file": "TXAL-2026-11-11-18.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-19",
+  "cat": "texts",
+  "lang": "en",
+  "title": "Secret transmission",
+  "voice": "Sci-fi radio operator",
+  "secs": 4,
+  "text": "Secret transmission received.",
+  "file": "TXAL-2026-11-11-19.mp3"
+ },
+ {
+  "id": "TXAL-2026-11-11-20",
+  "cat": "texts",
+  "lang": "en",
+  "title": "The suspense is unbearable",
+  "voice": "Melodramatic stage actor",
+  "secs": 4,
+  "text": "One new text. The suspense is unbearable.",
+  "file": "TXAL-2026-11-11-20.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-01",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Your bed filed a complaint",
+  "voice": "Mock-serious hotel receptionist",
+  "secs": 5,
+  "text": "Good morning! Your bed has filed a complaint. You have overstayed your welcome.",
+  "file": "WUAL-2026-11-11-01.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-02",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Your pillow can't do your job",
+  "voice": "Energetic coach",
+  "secs": 4,
+  "text": "Rise and shine! Your pillow cannot do your job for you.",
+  "file": "WUAL-2026-11-11-02.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-03",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "The snooze button doesn't believe",
+  "voice": "Warm motivational narrator",
+  "secs": 6,
+  "text": "This is your alarm. I believe in you. Your snooze button does not.",
+  "file": "WUAL-2026-11-11-03.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-04",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Coffee won't admire itself",
+  "voice": "Sassy cafe barista",
+  "secs": 4,
+  "text": "Wake up! The coffee is not going to admire itself.",
+  "file": "WUAL-2026-11-11-04.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-05",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Sleeping legend, wake up",
+  "voice": "Epic sports announcer",
+  "secs": 5,
+  "text": "Attention, sleeping legend! The world has started without you.",
+  "file": "WUAL-2026-11-11-05.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-06",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Blanket voted off the island",
+  "voice": "Reality-show host",
+  "secs": 5,
+  "text": "Good morning. Your blanket has been voted off the island.",
+  "file": "WUAL-2026-11-11-06.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-07",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "The breakfast ship sails",
+  "voice": "Cartoon pirate captain",
+  "secs": 4,
+  "text": "Wake up, captain! The breakfast ship is leaving port!",
+  "file": "WUAL-2026-11-11-07.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-08",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Exit through the nearest eyelid",
+  "voice": "Calm airport announcer",
+  "secs": 7,
+  "text": "Your dream has ended. Please exit through the nearest eyelid.",
+  "file": "WUAL-2026-11-11-08.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-09",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "The sun already clocked in",
+  "voice": "Deadpan office manager",
+  "secs": 4,
+  "text": "Rise, human. The sun has already clocked in.",
+  "file": "WUAL-2026-11-11-09.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-10",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Your socks need leadership",
+  "voice": "Military drill instructor",
+  "secs": 4,
+  "text": "Morning alert! Your socks are waiting for leadership.",
+  "file": "WUAL-2026-11-11-10.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-11",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Noon is not a personality",
+  "voice": "Dry best-friend voice",
+  "secs": 5,
+  "text": "This is a friendly reminder that noon is not a personality.",
+  "file": "WUAL-2026-11-11-11.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-12",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Even the toaster has plans",
+  "voice": "Bouncy cartoon sidekick",
+  "secs": 4,
+  "text": "Wake up! Even the toaster has plans today.",
+  "file": "WUAL-2026-11-11-12.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-13",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Your kingdom needs coffee",
+  "voice": "Regal butler",
+  "secs": 3,
+  "text": "Good morning, royalty. Your kingdom needs coffee.",
+  "file": "WUAL-2026-11-11-13.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-14",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Parting ways with the mattress",
+  "voice": "Polite therapist-like voice",
+  "secs": 5,
+  "text": "The mattress has enjoyed your company. It is time to part ways.",
+  "file": "WUAL-2026-11-11-14.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-15",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Your future self is waiting",
+  "voice": "Cheerful time traveler",
+  "secs": 4,
+  "text": "Up you get! Your future self is tapping their watch.",
+  "file": "WUAL-2026-11-11-15.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-16",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Deploy feet to floor",
+  "voice": "Friendly spaceship AI",
+  "secs": 4,
+  "text": "Wake-up protocol activated. Deploy feet to floor.",
+  "file": "WUAL-2026-11-11-16.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-17",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "The sun says MOVE",
+  "voice": "Sweet storyteller",
+  "secs": 5,
+  "text": "The sun says hello. Your alarm says MOVE.",
+  "file": "WUAL-2026-11-11-17.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-18",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Dreams can wait in the lobby",
+  "voice": "Hotel concierge",
+  "secs": 3,
+  "text": "Rise and shine! Your dreams can wait in the lobby.",
+  "file": "WUAL-2026-11-11-18.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-19",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Snooze committee dissolved",
+  "voice": "Formal bureaucrat",
+  "secs": 3,
+  "text": "Good morning! The snooze committee has been dissolved.",
+  "file": "WUAL-2026-11-11-19.mp3"
+ },
+ {
+  "id": "WUAL-2026-11-11-20",
+  "cat": "alarms",
+  "lang": "en",
+  "title": "Today's episode starts now",
+  "voice": "Excited TV announcer",
+  "secs": 4,
+  "text": "Wake up, superstar! Today is your next episode.",
+  "file": "WUAL-2026-11-11-20.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-01",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Limited edition birthday",
+  "voice": "Luxury commercial announcer",
+  "secs": 6,
+  "text": "Happy birthday! You are not getting older. You are becoming a limited edition.",
+  "file": "FBGR-2026-11-11-01.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-02",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Another lap around the sun",
+  "voice": "Cheerful scientist",
+  "secs": 7,
+  "text": "Congratulations! You have successfully completed another lap around the sun without reading the instructions.",
+  "file": "FBGR-2026-11-11-02.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-03",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Cake needs a fire extinguisher",
+  "voice": "Cartoon firefighter",
+  "secs": 6,
+  "text": "Happy birthday! Your cake called. It requests a fire extinguisher.",
+  "file": "FBGR-2026-11-11-03.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-04",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Committed to the tradition",
+  "voice": "Dry British butler",
+  "secs": 6,
+  "text": "Another birthday? Your commitment to this annual tradition is impressive.",
+  "file": "FBGR-2026-11-11-04.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-05",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Calories are party guests",
+  "voice": "Playful pastry chef",
+  "secs": 5,
+  "text": "Happy birthday! Today, calories are just tiny party guests.",
+  "file": "FBGR-2026-11-11-05.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-06",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Officially vintage",
+  "voice": "Antique auctioneer",
+  "secs": 4,
+  "text": "You are now officially vintage. Please handle with care.",
+  "file": "FBGR-2026-11-11-06.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-07",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Strong Wi-Fi, few candles",
+  "voice": "Warm geeky friend",
+  "secs": 6,
+  "text": "Happy birthday! May your Wi-Fi be strong and your candles be few.",
+  "file": "FBGR-2026-11-11-07.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-08",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Local legend survives",
+  "voice": "Exuberant TV news anchor",
+  "secs": 4,
+  "text": "Breaking news! Local legend survives another year!",
+  "file": "FBGR-2026-11-11-08.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-09",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Subscription renewed",
+  "voice": "Friendly robot",
+  "secs": 4,
+  "text": "Happy birthday! The universe renewed your subscription.",
+  "file": "FBGR-2026-11-11-09.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-10",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Birthday forecast",
+  "voice": "Weather reporter",
+  "secs": 5,
+  "text": "Your birthday forecast: ninety percent cake, ten percent questionable dancing.",
+  "file": "FBGR-2026-11-11-10.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-11",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "A very persistent number",
+  "voice": "Deadpan comedian",
+  "secs": 7,
+  "text": "Happy birthday! Age is just a number. A very persistent number.",
+  "file": "FBGR-2026-11-11-11.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-12",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Future family historian",
+  "voice": "Affectionate storyteller",
+  "secs": 7,
+  "text": "Congratulations! You are one year closer to becoming the family historian.",
+  "file": "FBGR-2026-11-11-12.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-13",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Invisible chores wish",
+  "voice": "Fairy godparent",
+  "secs": 7,
+  "text": "Happy birthday! May your presents be expensive and your chores invisible.",
+  "file": "FBGR-2026-11-11-13.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-14",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "New level unlocked",
+  "voice": "Arcade announcer",
+  "secs": 4,
+  "text": "You have unlocked a new level! Happy birthday, champion!",
+  "file": "FBGR-2026-11-11-14.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-15",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Warranty check: fabulous",
+  "voice": "Cheery customer service agent",
+  "secs": 4,
+  "text": "Happy birthday! We checked your warranty. Still fabulous.",
+  "file": "FBGR-2026-11-11-15.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-16",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "The VIP has entered the chat",
+  "voice": "Hype announcer",
+  "secs": 5,
+  "text": "Attention, everyone! The birthday VIP has entered the chat.",
+  "file": "FBGR-2026-11-11-16.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-17",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Your inner child wants dessert",
+  "voice": "Warm playful cartoon character",
+  "secs": 5,
+  "text": "Happy birthday! Your inner child has requested more dessert.",
+  "file": "FBGR-2026-11-11-17.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-18",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Another year wiser?",
+  "voice": "Gentle sarcastic friend",
+  "secs": 6,
+  "text": "Another year wiser? Let us not put pressure on the process.",
+  "file": "FBGR-2026-11-11-18.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-19",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Flattering selfies, big cake",
+  "voice": "Glamorous influencer-style voice",
+  "secs": 6,
+  "text": "Happy birthday! May your selfies be flattering and your cake enormous.",
+  "file": "FBGR-2026-11-11-19.mp3"
+ },
+ {
+  "id": "FBGR-2026-11-11-20",
+  "cat": "birthday",
+  "lang": "en",
+  "title": "Main character birthday",
+  "voice": "Movie trailer narrator",
+  "secs": 4,
+  "text": "Today you are the main character. Happy birthday!",
+  "file": "FBGR-2026-11-11-20.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-01",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Your phone wants applause",
+  "voice": "Dry robotic assistant",
+  "secs": 5,
+  "text": "Notification received. Your phone would like applause.",
+  "file": "FNTF-2026-11-11-01.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-02",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "A tiny update escaped",
+  "voice": "Whimsical narrator",
+  "secs": 4,
+  "text": "A tiny update has escaped into your pocket.",
+  "file": "FNTF-2026-11-11-02.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-03",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Something mildly interesting",
+  "voice": "Overdramatic news anchor",
+  "secs": 3,
+  "text": "Attention! Something mildly interesting happened.",
+  "file": "FNTF-2026-11-11-03.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-04",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Please act natural",
+  "voice": "Spy-movie handler",
+  "secs": 4,
+  "text": "You have a notification. Please act natural.",
+  "file": "FNTF-2026-11-11-04.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-05",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Your digital life has opinions",
+  "voice": "Snarky tech assistant",
+  "secs": 4,
+  "text": "Ping! Your digital life has opinions.",
+  "file": "FNTF-2026-11-11-05.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-06",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Notification in tiny shoes",
+  "voice": "Silly cartoon storyteller",
+  "secs": 4,
+  "text": "A notification has arrived wearing tiny shoes.",
+  "file": "FNTF-2026-11-11-06.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-07",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "No confetti included",
+  "voice": "Corporate presenter",
+  "secs": 4,
+  "text": "Your screen has a new announcement. No confetti included.",
+  "file": "FNTF-2026-11-11-07.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-08",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "The plot remains complicated",
+  "voice": "Mystery narrator",
+  "secs": 4,
+  "text": "Incoming update! The plot remains complicated.",
+  "file": "FNTF-2026-11-11-08.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-09",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "The notification fairy",
+  "voice": "Airy magical voice",
+  "secs": 3,
+  "text": "The notification fairy has visited.",
+  "file": "FNTF-2026-11-11-09.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-10",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Your apps are gossiping",
+  "voice": "Conspiratorial whisper",
+  "secs": 3,
+  "text": "Alert! Your apps are gossiping again.",
+  "file": "FNTF-2026-11-11-10.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-11",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "One new reason to check",
+  "voice": "Friendly narrator",
+  "secs": 3,
+  "text": "You have one new reason to check your phone.",
+  "file": "FNTF-2026-11-11-11.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-12",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "A digital tap on the shoulder",
+  "voice": "Soft comforting voice",
+  "secs": 4,
+  "text": "Ding! A little digital tap on the shoulder.",
+  "file": "FNTF-2026-11-11-12.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-13",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Your phone raised its hand",
+  "voice": "Patient classroom teacher",
+  "secs": 4,
+  "text": "Your phone has raised its hand.",
+  "file": "FNTF-2026-11-11-13.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-14",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "The internet remembers you",
+  "voice": "Mock government announcer",
+  "secs": 3,
+  "text": "Official notice: the internet remembers you.",
+  "file": "FNTF-2026-11-11-14.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-15",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Your phone insists",
+  "voice": "Tired assistant",
+  "secs": 4,
+  "text": "Something just happened. Your phone insists you know.",
+  "file": "FNTF-2026-11-11-15.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-16",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Suspense sold separately",
+  "voice": "Energetic commercial voice",
+  "secs": 3,
+  "text": "New alert! Suspense sold separately.",
+  "file": "FNTF-2026-11-11-16.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-17",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "The notification department",
+  "voice": "Bureaucratic office clerk",
+  "secs": 3,
+  "text": "A message from the notification department.",
+  "file": "FNTF-2026-11-11-17.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-18",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Attention requested",
+  "voice": "Polite sci-fi computer",
+  "secs": 3,
+  "text": "Ping! Your attention has been requested.",
+  "file": "FNTF-2026-11-11-18.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-19",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "The digital doorbell",
+  "voice": "Friendly neighbor",
+  "secs": 2,
+  "text": "The digital doorbell just rang.",
+  "file": "FNTF-2026-11-11-19.mp3"
+ },
+ {
+  "id": "FNTF-2026-11-11-20",
+  "cat": "notifications",
+  "lang": "en",
+  "title": "Resume being mysterious",
+  "voice": "Smooth secret agent",
+  "secs": 5,
+  "text": "Alert complete. You may resume being mysterious.",
+  "file": "FNTF-2026-11-11-20.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-01",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Ta-da, glorious achievement",
+  "voice": "Triumphant stage magician",
+  "secs": 5,
+  "text": "Ta-da! Behold the glorious achievement of absolutely something!",
+  "file": "FNSE-2026-11-11-01.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-02",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Boing, dignity gone",
+  "voice": "Goofy rubbery cartoon voice",
+  "secs": 4,
+  "text": "Boing! My dignity has left the building.",
+  "file": "FNSE-2026-11-11-02.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-03",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Dun dun duuun",
+  "voice": "Melodramatic movie narrator",
+  "secs": 5,
+  "text": "Dun dun duuun! A very small disaster!",
+  "file": "FNSE-2026-11-11-03.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-04",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Oopsie, not the plan",
+  "voice": "Tiny mischievous cartoon creature",
+  "secs": 3,
+  "text": "Oopsie! That was not in the plan.",
+  "file": "FNSE-2026-11-11-04.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-05",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Imagine confetti",
+  "voice": "Sports commentator",
+  "secs": 4,
+  "text": "Victory! Please imagine confetti everywhere.",
+  "file": "FNSE-2026-11-11-05.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-06",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Error: confidence not found",
+  "voice": "Glitchy but intelligible robot voice",
+  "secs": 3,
+  "text": "Error! Confidence not found.",
+  "file": "FNSE-2026-11-11-06.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-07",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Whoosh, dramatic exit",
+  "voice": "Superhero narrator",
+  "secs": 3,
+  "text": "Whoosh! I have made a dramatic exit.",
+  "file": "FNSE-2026-11-11-07.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-08",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Bloop, idea sunk",
+  "voice": "Underwater cartoon character",
+  "secs": 3,
+  "text": "Bloop! That idea has sunk.",
+  "file": "FNSE-2026-11-11-08.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-09",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Ta-da, unnecessary suspense",
+  "voice": "Vaudeville performer",
+  "secs": 4,
+  "text": "Ta-da! The suspense was unnecessary.",
+  "file": "FNSE-2026-11-11-09.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-10",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Bonk, universe feedback",
+  "voice": "Cartoon referee",
+  "secs": 4,
+  "text": "Bonk! The universe has issued feedback.",
+  "file": "FNSE-2026-11-11-10.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-11",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Awkward silence warning",
+  "voice": "Computer alarm voice",
+  "secs": 4,
+  "text": "Warning! Awkward silence approaching.",
+  "file": "FNSE-2026-11-11-11.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-12",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Pop, brilliant thought",
+  "voice": "Excited inventor",
+  "secs": 3,
+  "text": "Pop! A brilliant thought has appeared.",
+  "file": "FNSE-2026-11-11-12.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-13",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Womp womp",
+  "voice": "Deadpan game-show host",
+  "secs": 4,
+  "text": "Womp womp. The trophy goes to nobody.",
+  "file": "FNSE-2026-11-11-13.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-14",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Kaboom, it escalated",
+  "voice": "Over-the-top action trailer voice",
+  "secs": 3,
+  "text": "Kaboom! That escalated emotionally.",
+  "file": "FNSE-2026-11-11-14.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-15",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Squeak, the mouse objects",
+  "voice": "High-pitched cartoon mouse character",
+  "secs": 3,
+  "text": "Squeak! The mouse has filed an objection.",
+  "file": "FNSE-2026-11-11-15.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-16",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Drumroll... never mind",
+  "voice": "Confident announcer",
+  "secs": 4,
+  "text": "Drumroll, please! Oh. Never mind.",
+  "file": "FNSE-2026-11-11-16.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-17",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Bzzzt, wrong answer",
+  "voice": "Friendly quiz-show buzzer voice",
+  "secs": 4,
+  "text": "Bzzzt! Wrong answer, magnificent effort!",
+  "file": "FNSE-2026-11-11-17.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-18",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Poof, responsibilities gone",
+  "voice": "Whimsical wizard",
+  "secs": 5,
+  "text": "Poof! Your responsibilities have vanished. Temporarily.",
+  "file": "FNSE-2026-11-11-18.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-19",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Clang, comedy is open",
+  "voice": "Old-timey carnival barker",
+  "secs": 3,
+  "text": "Clang! The comedy department is open.",
+  "file": "FNSE-2026-11-11-19.mp3"
+ },
+ {
+  "id": "FNSE-2026-11-11-20",
+  "cat": "sfx",
+  "lang": "en",
+  "title": "Maximum silliness unlocked",
+  "voice": "Playful video-game announcer",
+  "secs": 4,
+  "text": "Ta-da! You have unlocked maximum silliness.",
+  "file": "FNSE-2026-11-11-20.mp3"
  }
 ]
