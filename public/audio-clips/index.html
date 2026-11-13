@@ -11,6 +11,23 @@
   gtag('js', new Date());
   gtag('config', 'G-G680MCGLP3');
 </script>
+  <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1655518596267193');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 <link rel="icon" type="image/webp" href="/logo-small.webp">
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="Funny audio clips from $1.30 each: ringtones, text alerts, wake-up alarms, birthday greetings and more. Instant download.">
@@ -439,6 +456,7 @@ function startPreview(id){
 /* ---------- Cart ---------- */
 /* Google Analytics shopping events (live site only) */
 function track(name, ids, value, extra){
+    if(LIVE && typeof fbq==="function"){ const ev={add_to_cart:"AddToCart",begin_checkout:"InitiateCheckout",purchase:"Purchase"}[name]; if(ev) fbq("track", ev, {currency:"USD", value: value!=null?value:(PRICE_CENTS/100)*ids.length, content_ids:ids, content_type:"product", num_items:ids.length}, (extra&&extra.transaction_id)?{eventID:extra.transaction_id}:{}); }
   if(!LIVE || typeof gtag!=="function") return;
   const each = value!=null ? value/ids.length : PRICE_CENTS/100;
   gtag("event", name, Object.assign({currency:"USD", value: value!=null?value:each*ids.length,
