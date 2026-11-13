@@ -21,11 +21,12 @@ export async function onRequestPost(context) {
   if (!total) return json({ error: "Orders are 1, 3 or 5 clips. Please adjust your cart." }, 400);
   const each = total / chosen.length; // 150, 140 or 130 cents
 
-  const origin = new URL(request.url).origin;
+  // The shop page is at /audio-clips/ on farosincepta.com; buyers return there.
+  const shop = new URL("/audio-clips/", request.url).href;
   const p = new URLSearchParams();
   p.set("mode", "payment");
-  p.set("success_url", origin + "/?session_id={CHECKOUT_SESSION_ID}");
-  p.set("cancel_url", origin + "/");
+  p.set("success_url", shop + "?session_id={CHECKOUT_SESSION_ID}");
+  p.set("cancel_url", shop);
   p.set("metadata[clip_ids]", chosen.map((c) => c.id).join(","));
   p.set("customer_creation", "if_required");
   chosen.forEach((c, i) => {
