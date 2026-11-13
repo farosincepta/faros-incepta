@@ -1,15 +1,5 @@
 [
  {
-  "id": "FI-0001",
-  "cat": "intro",
-  "lang": "en",
-  "title": "Welcome back to the channel",
-  "voice": "Warm male",
-  "secs": 5,
-  "text": "Hey everyone, welcome back to the channel. Let's get into it.",
-  "file": "FI-0001.mp3"
- },
- {
   "id": "RING-2026-11-11-01",
   "cat": "ringtones",
   "lang": "en",
