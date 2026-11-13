@@ -54,6 +54,8 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:2px;background:var(--surface)}
 .seg button{border:0;background:none;padding:5px 11px;border-radius:999px;font-size:.85rem;color:var(--muted)}
 .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.homelink{color:var(--ink);font-weight:600;font-size:.9rem;text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:7px 14px;margin-right:10px;white-space:nowrap}.homelink:hover{border-color:var(--ink)}
+@media (max-width:560px){.homelink{padding:6px 10px;font-size:.8rem;margin-right:6px}.hl-long{display:none}}
 .cartbtn{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--ink);background:var(--ink);color:var(--bg);border-radius:999px;padding:7px 14px;font-weight:600;font-size:.9rem}
 .cartbtn .n{background:var(--beam);color:#0d2148;border-radius:999px;min-width:22px;padding:0 6px;text-align:center;font-size:.8rem}
 
@@ -166,6 +168,7 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-betw
       <img src="/logo-small.webp" alt="Faros Incepta logo">
       <span><b>Faros Incepta</b><small>Audio Clips</small></span>
     </a>
+    <a class="homelink" href="/">&larr; <span class="hl-long">Faros Incepta </span>Home</a>
     <button class="cartbtn" id="openCart"><span data-t="cart">Cart</span><span class="n" id="cartN">0</span></button>
   </div>
 </header>
@@ -243,7 +246,7 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-betw
 
 <footer>
   <div class="wrap">
-    <span>© 2026 <a href="/" style="color:inherit">Faros Incepta LLC</a> · Illinois, USA</span>
+    <span>© 2026 <a href="/" style="color:inherit">Faros Incepta LLC</a> · <a href="/" style="color:inherit">Back to farosincepta.com</a> · Illinois, USA</span>
     <span><span data-t="help">Questions:</span> <span class="mono">info@farosincepta.com</span></span>
   </div>
 </footer>
