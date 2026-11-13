@@ -1,4 +1,4 @@
-# Faros Incepta Audio Clips — audioclips.farosincepta.com
+# Faros Incepta — farosincepta.com
 
 A shop run by Faros Incepta LLC that sells audio clips: 1 clip for $1.50, 3 for $4.20 or 5 for $6.50 (orders are exactly 1, 3 or 5 clips). Buyers preview a clip, pay with Stripe, and download the full file.
 
