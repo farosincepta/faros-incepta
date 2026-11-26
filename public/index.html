@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Faros Incepta sets up new businesses from LLC filing to website and payments, builds websites, runs Meta (Facebook and Instagram) advertising, helps businesses with forecasting, budgeting and dashboards, and sells funny ready-made audio clips. Based in Illinois.">
-  <title>Faros Incepta | Websites, Meta Advertising, Forecasting &amp; Audio Clips</title>
+  <meta name="description" content="Faros Incepta sets up new businesses from LLC filing to website and payments, builds websites, runs Meta (Facebook and Instagram) advertising, and helps businesses with forecasting, budgeting and dashboards. Based in Illinois.">
+  <title>Faros Incepta | Business Launch, Websites, Meta Advertising &amp; Forecasting</title>
   <link rel="icon" type="image/webp" href="logo-small.webp">
   <style>
     :root {
@@ -43,8 +43,6 @@
     .navlinks { display:flex; align-items:center; gap:26px; }
     .navlinks a { text-decoration:none; font-size:.95rem; font-weight:650; color:#2c3d53; }
     .navlinks a:hover { color:var(--blue); }
-    .navlinks a.shop { color:var(--navy); background:var(--gold-soft); border:1px solid #f1d58f; padding:8px 14px; border-radius:999px; }
-    .navlinks a.shop:hover { background:#fbe9bd; color:var(--navy); }
     .menu-toggle {
       display:none; align-items:center; justify-content:center; width:44px; height:44px;
       border:1px solid var(--line); border-radius:10px; background:white; color:var(--navy); cursor:pointer;
@@ -97,24 +95,20 @@
     .section-head p { color:var(--muted); font-size:1.08rem; }
     .services { background:#f7fafc; }
 
-    /* Three lines of business */
-    .lines { display:grid; grid-template-columns:repeat(2,1fr); gap:20px; }
+    /* Lines of business */
+    .lines { display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
     .line {
       background:white; border:1px solid var(--line); border-radius:18px; padding:30px 28px;
       box-shadow:0 8px 28px rgba(8,31,59,.05); display:flex; flex-direction:column; gap:14px; min-width:0;
     }
-    .line.audio { border-color:#f1d58f; background:linear-gradient(180deg,#fffaf0,#fff 45%); }
     .icon { width:46px; height:46px; border-radius:12px; display:grid; place-items:center; background:var(--sky); color:var(--blue); }
-    .line.audio .icon { background:var(--gold-soft); color:#a87512; }
     .icon svg { width:24px; height:24px; }
     .line h3 { color:var(--navy); font-size:1.32rem; margin:0; line-height:1.2; }
     .line > p { margin:0; color:var(--muted); }
     .line ul { list-style:none; margin:4px 0 0; padding:0; display:grid; gap:9px; border-top:1px solid var(--line); padding-top:16px; }
     .line li { display:grid; grid-template-columns:18px 1fr; gap:10px; font-size:.95rem; color:#2c3d53; }
     .line li::before { content:""; width:7px; height:7px; border-radius:50%; background:var(--blue); margin-top:.6em; }
-    .line.audio li::before { background:var(--gold); }
     .line .more { margin-top:auto; padding-top:8px; font-weight:750; color:var(--blue); text-decoration:none; }
-    .line.audio .more { color:#8a5f0a; }
     .line .more:hover { text-decoration:underline; }
 
     /* Business launch package (featured, full width) */
@@ -124,14 +118,6 @@
     .line.launch ul { grid-template-columns:repeat(2,minmax(0,1fr)); column-gap:24px; }
     .line.launch .note { margin:0; font-size:.86rem; color:var(--muted); font-style:italic; }
     @media (max-width:700px) { .line.launch ul { grid-template-columns:1fr; } }
-
-    /* Audio clips band */
-    .clips { background:var(--navy); color:white; padding:0; }
-    .clips-inner { display:grid; grid-template-columns:auto minmax(0,1fr) auto; gap:36px; align-items:center; padding:52px 0; }
-    .price { font-size:clamp(3.4rem,7vw,5rem); font-weight:850; line-height:.9; letter-spacing:-.05em; color:var(--gold); }
-    .price small { display:block; font-size:.95rem; letter-spacing:.12em; text-transform:uppercase; color:#c9d9e9; font-weight:750; margin-top:8px; }
-    .clips h2 { margin:0 0 8px; font-size:clamp(1.6rem,3vw,2.2rem); line-height:1.15; letter-spacing:-.02em; }
-    .clips p { margin:0; color:#c9d9e9; max-width:60ch; }
 
     .why-grid { display:grid; grid-template-columns:1fr 1fr; gap:60px; align-items:center; }
     .statement {
@@ -195,7 +181,6 @@
     @media (prefers-reduced-motion: reduce) { html { scroll-behavior:auto; } .btn { transition:none; } }
     @media (max-width:980px) {
       .lines { grid-template-columns:1fr; }
-      .clips-inner { grid-template-columns:1fr; gap:18px; }
     }
     @media (max-width:900px) {
       nav { position:relative; }
@@ -207,8 +192,7 @@
       }
       .navlinks.open { display:flex; }
       .navlinks a { padding:13px 4px; border-bottom:1px solid var(--line); font-size:1rem; }
-      .navlinks a.shop { margin-top:14px; text-align:center; border-bottom:1px solid #f1d58f; }
-      .hero-grid, .why-grid, .contact-grid { grid-template-columns:1fr; }
+        .hero-grid, .why-grid, .contact-grid { grid-template-columns:1fr; }
       .hero { min-height:auto; }
       .hero-grid { gap:40px; padding:70px 0; }
       .hero-logo { order:-1; }
@@ -263,7 +247,6 @@ src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
         <a href="#why">Why Faros Incepta</a>
         <a href="#about">About</a>
         <a href="#contact">Contact</a>
-        <a class="shop" href="/audio-clips/">Audio Clips</a>
       </div>
     </nav>
   </div>
@@ -275,13 +258,12 @@ src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
     <div>
       <div class="eyebrow">Faros Incepta</div>
       <h1 style="font-size:clamp(2.4rem,5vw,4.4rem)">Guiding your<br><span style="white-space:nowrap">business forward.</span></h1>
-      <p>We help new businesses launch and growing businesses thrive, with websites that work, Meta ads that reach the right people, forecasts and dashboards that make the numbers clear, and ready-made audio that gives your brand a voice.</p>
+      <p>We help new businesses launch and growing businesses thrive, with websites that work, Meta ads that reach the right people, and forecasts and dashboards that make the numbers clear.</p>
       <ul class="pillars" aria-label="What we do">
         <li>Business launch</li>
         <li>Website development</li>
         <li>Meta advertising</li>
         <li>Forecasting &amp; dashboards</li>
-        <li>Audio clips from $1.30</li>
       </ul>
       <div class="hero-actions">
         <a class="btn light" href="#contact">Let's Grow What's Next</a>
@@ -298,8 +280,8 @@ src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
   <div class="wrap">
     <div class="section-head">
       <div class="eyebrow">What we do</div>
-      <h2>Five ways we help you grow.</h2>
-      <p>Launch your business, build your home online, bring the right people to it, plan with clear numbers, and give your brand a voice. Use one service or combine them.</p>
+      <h2>Four ways we help you grow.</h2>
+      <p>Launch your business, build your home online, bring the right people to it, and plan with clear numbers. Use one service or combine them.</p>
     </div>
     <div class="lines">
       <article class="line launch" id="launch">
@@ -364,31 +346,7 @@ src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
         <a class="more" href="#contact">Ask about forecasting →</a>
       </article>
 
-      <article class="line audio" id="audio">
-        <div class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 10v4M8 7v10M12 4v16M16 8v8M20 11v2"/></svg></div>
-        <h3>Audio Clips</h3>
-        <p>Funny ready-made audio clips you can preview, buy from $1.30, and download right away.</p>
-        <ul>
-          <li>Ringtones</li>
-          <li>Text message alerts</li>
-          <li>Wake-up alarms</li>
-          <li>Funny birthday greetings</li>
-          <li>Funny notifications and sound effects</li>
-        </ul>
-        <a class="more" href="/audio-clips/">Browse audio clips →</a>
-      </article>
     </div>
-  </div>
-</section>
-
-<section class="clips" aria-labelledby="clips-title">
-  <div class="wrap clips-inner">
-    <div class="price">$1.30<small>per clip, in packs of 5</small></div>
-    <div>
-      <h2 id="clips-title">Audio Clips</h2>
-      <p>Listen to a preview, pay securely with Stripe, and download the full clip on the spot. 1 clip $1.50, 3 for $4.20, 5 for $6.50. New clips are added regularly.</p>
-    </div>
-    <a class="btn gold" href="/audio-clips/">Shop clips</a>
   </div>
 </section>
 
@@ -403,7 +361,7 @@ src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
       <div class="tick"><div class="check">✓</div><div><strong>Strategy before activity</strong><span>Every website and campaign starts with your goals, your audience and your business priorities.</span></div></div>
       <div class="tick"><div class="check">✓</div><div><strong>One team from site to ad</strong><span>The people who build your website also run your ads, so both are made to work together.</span></div></div>
       <div class="tick"><div class="check">✓</div><div><strong>Performance you can understand</strong><span>Clear KPIs turn website and campaign data into decisions you can act on.</span></div></div>
-      <div class="tick"><div class="check">✓</div><div><strong>English and Greek</strong><span>We build bilingual websites and audio for businesses and communities that speak both.</span></div></div>
+      <div class="tick"><div class="check">✓</div><div><strong>English and Greek</strong><span>We build bilingual websites for businesses and communities that speak both.</span></div></div>
     </div>
   </div>
 </section>
@@ -414,7 +372,7 @@ src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
       <div class="eyebrow">About Faros Incepta</div>
       <h2>Strategy meets business insight.</h2>
     </div>
-    <p>Faros Incepta is an Illinois company that helps businesses and organizations grow online. We set up new businesses from the ground up, build websites, run Meta advertising on Facebook and Instagram, help businesses plan with forecasting, budgeting and dashboards, and create ready-made audio clips that give brands a voice.</p>
+    <p>Faros Incepta is an Illinois company that helps businesses and organizations grow online. We set up new businesses from the ground up, build websites, run Meta advertising on Facebook and Instagram, and help businesses plan with forecasting, budgeting and dashboards.</p>
     <p><em>Faros</em> is Greek for lighthouse. That is our job: to make you easy to find and to guide the right people to you. Our approach rests on a simple idea: your online presence should do more than exist. It should help move the business forward.</p>
   </div>
 </section>
@@ -424,11 +382,10 @@ src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
     <div>
       <div class="eyebrow">Contact Faros Incepta</div>
       <h2>Let's Grow<br>What's Next.</h2>
-      <p class="contact-copy">Starting a new business, or need a new website, a Meta campaign, a forecast or dashboard, or a custom audio clip? Tell us what you have in mind and we'll get back to you.</p>
+      <p class="contact-copy">Starting a new business, or need a new website, a Meta campaign, or a forecast or dashboard? Tell us what you have in mind and we'll get back to you.</p>
     <div class="contact-list">
       <a href="mailto:info@farosincepta.com"><div><span class="contact-label">Email</span><span class="contact-value">info@farosincepta.com</span></div></a>
       <a href="tel:+16304269078"><div><span class="contact-label">Phone</span><span class="contact-value">(630) 426-9078</span></div></a>
-      <a href="/audio-clips/"><div><span class="contact-label">Audio clip shop</span><span class="contact-value">farosincepta.com/audio-clips</span></div></a>
       <a href="https://www.facebook.com/faros.incepta" target="_blank" rel="noopener noreferrer"><div><span class="contact-label">Facebook</span><span class="contact-value">www.facebook.com/faros.incepta</span></div></a>
       <a href="https://www.instagram.com/faros.incepta" target="_blank" rel="noopener noreferrer"><div><span class="contact-label">Instagram</span><span class="contact-value">www.instagram.com/faros.incepta</span></div></a>
     </div>
@@ -469,7 +426,6 @@ src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
               <option>Website</option>
               <option>Meta advertising</option>
               <option>Forecasting, budgeting or dashboards</option>
-              <option>Audio clip</option>
               <option>Something else</option>
             </select>
           </div>
@@ -543,7 +499,6 @@ src="https://www.facebook.com/tr?id=1655518596267193&ev=PageView&noscript=1"
   <div class="wrap footer-row">
     <div>© 2026 Faros Incepta LLC · Illinois, USA. All rights reserved.</div>
     <div class="socials">
-      <a href="/audio-clips/">Audio Clips</a>
       <a href="https://www.facebook.com/faros.incepta" target="_blank" rel="noopener noreferrer">Facebook</a>
       <a href="https://www.instagram.com/faros.incepta" target="_blank" rel="noopener noreferrer">Instagram</a>
     </div>
